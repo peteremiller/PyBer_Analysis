@@ -15,7 +15,7 @@ The purpose of this analysis is to use Python and Pandas to create a summary Dat
  
  
 
-<img src="analysis (pngfiles)/"first_Q_summary.png">
+<img src="analysis/"first_Q_summary.png">
     
         
     
@@ -27,7 +27,7 @@ The purpose of this analysis is to use Python and Pandas to create a summary Dat
  
  
 
-<img src="analysis (png files)/"Pyber_fare_summary.png">
+<img src="analysis/"Pyber_fare_summary.png">
     
     
     
