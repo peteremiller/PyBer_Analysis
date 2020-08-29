@@ -9,8 +9,16 @@ The purpose of this analysis is to use Python and Pandas to create a summary Dat
 ##**Deliverables for this Analysis
  
  This assignment consists of two technical analysis deliverables: 
-    1) A ride-sharing summary DataFrame by city type, and 
-    2) A multiple-line chart of total fares for each city type.
+    1) A ride-sharing summary DataFrame by city type,
+    
+    <img src="analysis/"first_Q_summary.png" width="1000">
+    
+        
+    
+    **2) A multiple-line chart of total fares for each city type.**
+    
+    <img src="analysis/Pyber_fare_summary.png" width="1000">
+    
     
     
  ##**Analysis of Data
