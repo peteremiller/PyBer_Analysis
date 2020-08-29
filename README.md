@@ -1,4 +1,4 @@
-# PyBer Ride-Sharing Fares for Rural, Suburban and Urban Analysis
+# PyBer Ridesharing Fares for Rural, Suburban and Urban Analysis
 
 
 ##**Overview of the Analysis
@@ -8,36 +8,25 @@ The purpose of this analysis is to use Python and Pandas to create a summary Dat
 
 ##**Deliverables for this Analysis
  
- This assignment consists of two technical analysis deliverables: 
-    1) A ride-sharing summary DataFrame by city type,
+This assignment consists of two technical analysis deliverables: 
+1) A ride-sharing summary DataFrame by city type,
     
- 
- 
- 
-
 <img src="analysis/"first_Q_summary.png">
     
-        
     
-    
-    
-    **2) A multiple-line chart of total fares for each city type.**
+2) A multiple-line chart of total fares for each city type.
     
  
- 
- 
-
 <img src="analysis/"Pyber_fare_summary.png">
     
     
     
+##**Analysis of Data
  
+The data colected of first quarter rideshares 
  
- ##**Analysis of Data
- 
- The data colected of first quarter rideshares 
- 
- ##**Current Trends in Ridesharing
+
+##**Current Trends in Ridesharing
  
  The ridesharing market is divided among three major segments at this time: 1.)Types (Fixed Ridesharing, Dynamic Ridesharing, Corporate Ridesharing), 2.) Service Types (App-based, Web-based, and Web/App Based) and, 3.) Geography (North America, South America, Europe, Asia, etc.)(Credit article: https://www.mordorintelligence.com/industry-reports/ridesharing-market.)  
  
