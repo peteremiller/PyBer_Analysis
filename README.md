@@ -29,9 +29,4 @@ The purpose of this analysis is to use Python and Pandas to create a summary Dat
 
 
 
-<img src="analysis/Pyber_fare_summary.png" width="1000">
-
-
-
-
 
