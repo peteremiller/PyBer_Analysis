@@ -23,22 +23,17 @@ This analysis consists of two technical deliverables:
     
 ##**Results of Analysis
  
-description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
-The data collected thru the first quarter rideshares of 2019 provided a glimpse into the differences between the three city types illustrated in Figures 1 and 2. in the first column, Total Rides, of Figure 1 it is clear to see that the overwhelming majority of rides take place in the Urban setting, which is also supported by the second column, Total Drivers. Based on the current business structure it can be inferred that more drivers are needed to service more rides in the more densly populated Urban area.  
+The data collected thru the first quarter rideshares of 2019 provides a glimpse into the differences between the three city types illustrated in Figures 1. In the first column, Total Rides, I beleive it is clear to see that the overwhelming majority of Total Rides(2405 of 2973, 81%) take place in the Urban setting. Based on the current rideshare structure it can be inferred that more drivers are needed to service more rides in the more densely populated Urban area. Yet, while there are fewer "Total Rides" and "Total Drivers" in the Rural area, the "Average Fare per Ride" and "Average Fare per Driver" are significantly higher than those in the Urban area. The "Total Fares" is significantly higher in the Urban area, but the Urban area is the only area of the three where the "Average Fare per Driver" is below the "Average Fare per Ride" representing a negative effect on revenue for employing more Urban drivers.
+
+I believe there needs to be a larger sample of data provided over at least one full calendar year to make acurate predictions about future ridesharing trends for PyBer. Seasons of the year, weather patterns, personal expendable income and the development of trust among clientel are necessary to make appropriate judgements. Also, I would recommend analyzing the percentages of each of the city types to better understand future emphasis of business resources.   
   
  
 **Summary
 
-I will offer three recommendations for addressing disparities among the city types.   
+I will offer three recommendations for addressing disparities among the city types.
+1.) One difference among the three city types, as seen in Figure 2, is the sharp peaks and valleys in the Urban and Suburban areas as compared to the more consistent increase of rides throughout the quarter for the Rural area. Weather plays an important role in forming habits. The disparity in the decrease of rides may have to do with weather condtions and the increase of commute times in the Urban area.
+2.) I would recommend using Web based or Web/App based technology to better understand how the three city types are being used by riders. Is there a way for drivers to mkae more 'pickups' on their way to a destination? If the driver's destination is known, Web based technology can be used to match a driver with a rider who is headed in the same dircetion with a manageable route. 
+3.) Finally, I recommend looking into how partnerships can be formed with local Urban businesses to provide corporate rideshare programs for employees who live in the Suburban and Rural areas in particular. Urban workers tend to walk much more to desired locations than those who are living in outlying areas. I would also recommend looking at increasing the size of vehicles that are used in the Urban and Rural areas to better use company resources when increasing the number of riders per fare. 
  
-#Current trends in Ridesharing
-
-
-The ridesharing market is divided among three major segments at this time: 1.)Types (Fixed Ridesharing, Dynamic Ridesharing, Corporate Ridesharing), 2.) Service Types (App-based, Web-based, and Web/App Based) and, 3.) Geography (North America, South America, Europe, Asia, etc.)(Credit article: https://www.mordorintelligence.com/industry-reports/ridesharing-market.)  
-
-
-#Recommendations
-
-1.)
-
+this concludes the Pyber analysis pem
 
